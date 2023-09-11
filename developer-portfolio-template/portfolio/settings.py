@@ -126,7 +126,7 @@ STATIC_ROOT = os.path.join(BASE_DIR,'assets')
 EMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_HOST_USER='kavinprojectsmpt@gmail.com'
-EMAIL_HOST_PASSWORD='wgxzstezjshifvlg'
+EMAIL_HOST_PASSWORD='npgtyygcycxqxbwu'
 EMAIL_PORT=587
 EMAIL_USE_TLS = True 
 # Default primary key field type
